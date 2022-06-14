@@ -1,6 +1,6 @@
 # Gopher-Hunting-Game
 
-The game is played by two worker threads contained in your app, running different algorithms and playing
+The game is played by two worker threads contained in the app, running different algorithms and playing
 against each other. (There is no human input once the game is started.) There are exactly 100 holes in the
 field; the holes are arranged as a 1010 matrix and equally spaced with respect to each other. The first thread
 to find gopher wins the game.
